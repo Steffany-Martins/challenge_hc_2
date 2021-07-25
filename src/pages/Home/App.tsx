@@ -22,12 +22,6 @@ const useStyles = makeStyles({
   },
 });
 
-interface submitData {
-  clientName: string,
-  clientLast: string,
-  Address: string,
-  idClient: number,
-}
 
 function Home() {
   const classes = useStyles();

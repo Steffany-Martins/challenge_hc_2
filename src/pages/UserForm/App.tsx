@@ -145,9 +145,5 @@ function Client() {
   </Container>
   )
 }
-
 export default Client;
-function setValue(arg0: string, value: string): void {
-  throw new Error('Function not implemented.');
-}
 
